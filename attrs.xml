@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MarqueeTextView">
+        <!-- marquee 滚动速度，单位 dp/second -->
+        <attr name="marqueeSpeed" format="integer" />
+        <!-- 每轮滚动结束后的暂停时间，单位 ms -->
+        <attr name="marqueeDelay" format="integer" />
+    </declare-styleable>
+</resources>
